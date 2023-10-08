@@ -1,2 +1,3 @@
 #!/usr/bin/python
-print("伟桑")
+print("hellozgod")
+print("testmessage")
